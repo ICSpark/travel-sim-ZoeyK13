@@ -1,0 +1,16 @@
+#container {
+    position: fixed;
+}
+.portals {
+    height: 100vh; 
+    width: 100vw;
+    margin: 30px;
+}
+body {
+    background-image: url("assets/paris.jpeg");
+    background-size: cover;
+}
+#header {
+    color: black;
+    text-align: center;
+}
